@@ -72,3 +72,12 @@
 [2022-06-29 03:46:13.238] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
 [2022-06-29 03:46:15.434] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
 [2022-06-29 03:46:16.044] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 55% of 2780.272ms, saved PROFILE here: 'file:///tmp/exthost-44aa15.cpuprofile' [{"id":"gc","total":45897,"percentage":2},{"id":"GitHub.vscode-pull-request-github","total":132600,"percentage":5},{"id":"program","total":8079,"percentage":0},{"id":"self","total":1062553,"percentage":38},{"id":"vscode.git","total":1530690,"percentage":55}]
+[2022-06-29 03:46:41.681] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 03:46:47.196] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 93% of 5781.422ms, saved PROFILE here: 'file:///tmp/exthost-eb7550.cpuprofile' [{"id":"gc","total":87161,"percentage":2},{"id":"self","total":289845,"percentage":5},{"id":"vscode.git","total":5404018,"percentage":93}]
+[2022-06-29 03:47:01.938] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 03:47:07.154] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 93% of 6019.238ms, saved PROFILE here: 'file:///tmp/exthost-b49676.cpuprofile' [{"id":"gc","total":107321,"percentage":2},{"id":"self","total":331601,"percentage":6},{"id":"vscode.git","total":5579946,"percentage":93}]
+[2022-06-29 03:47:30.915] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 03:47:36.236] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 96% of 5872.855ms, saved PROFILE here: 'file:///tmp/exthost-33c138.cpuprofile' [{"id":"gc","total":95166,"percentage":2},{"id":"self","total":145353,"percentage":2},{"id":"vscode.git","total":5632086,"percentage":96}]
+[2022-06-29 03:49:26.979] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 03:49:32.827] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-29 03:49:32.956] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 68% of 6255.371ms, saved PROFILE here: 'file:///tmp/exthost-5d05dc.cpuprofile' [{"id":"gc","total":304609,"percentage":5},{"id":"ms-vsliveshare.vsliveshare","total":2733,"percentage":0},{"id":"program","total":1789,"percentage":0},{"id":"self","total":1712235,"percentage":27},{"id":"vscode.git","total":4233688,"percentage":68}]
