@@ -257,3 +257,127 @@ git status
 git local user
 git --local
 --git-dir
+node -v
+npm install light-server
+npm fund
+npm install -g npm@8.13.1 
+clear
+npm install lite-server --save-dev
+npm fund
+clear
+dir
+code .
+npm install
+npm run start
+npm run
+cd
+cd web-dev-starter
+dir
+npm install
+code .
+ctrl`
+npm run start
+clear
+code .
+npm run
+
+npm run start
+npm install
+clear
+npm run start
+git --version
+npm --version
+code
+git clone https://github.com/pluralsight/web-dev-starter.git
+cd dir
+cd
+dir
+code
+node -v
+npm install lite-server --save-dev
+npm run start
+npm run
+npm funds
+cd web-dev-starter
+npm install
+npm audit fix
+dir
+npm run start
+dir
+npm install
+dir
+code .
+cd web-dev-starter
+cd web-dev-starter
+dir
+~/web-dev-starter
+cd dir 
+cd web-dev-starter
+dir
+cd web-dev-start
+cd web-dev-starter
+dir
+npm 
+code .
+npm install
+npm run start
+cd web-dev-starter
+dir
+npm run install
+code .
+npm run install
+npm run start
+dir
+cd web-dev-starter
+dir
+code.
+code .
+npm run start
+dir
+dir
+dir
+cd web-dev-starter
+dir
+git index.html
+index.html
+code .
+dir
+code .
+cd
+dir
+git --commit
+git commit
+run
+npm run
+npm run start
+code .
+npm run
+cd web-dev-starter
+cd web-dev-start
+npm --version
+code .
+npm run start
+cd web-dev-starter
+cd carved rock project
+dir
+npm run install
+npm run
+code .
+commit
+git status
+console.log
+cd dir
+cd Carved Rock Project
+cd web-dev-starter
+npm run
+dir
+git --version
+npm --version
+code .
+npm run start
+dir
+cd js-demo\
+npm run start
+dir
+cd js-demo
+npm run start

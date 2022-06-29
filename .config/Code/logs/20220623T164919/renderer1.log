@@ -1,6 +1,0 @@
-[2022-06-23 16:49:25.027] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-[2022-06-23 16:49:29.238] [renderer1] [error] [Extension Host] (node:5890) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2022-06-23 16:56:13.841] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-[2022-06-23 16:56:16.017] [renderer1] [error] [Extension Host] (node:6599) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)

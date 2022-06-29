@@ -1,0 +1,22 @@
+[2022-06-29T05:44:25.173Z] Log level: Info
+[2022-06-29T05:44:25.174Z] [info] Validating found git in: git
+[2022-06-29T05:44:25.249Z] [info] Using git 2.30.2 from git
+[2022-06-29T05:44:25.292Z] > git rev-parse --show-toplevel [7ms]
+[2022-06-29T05:44:25.330Z] > git rev-parse --git-dir --git-common-dir [9ms]
+[2022-06-29T05:44:25.337Z] [info] Open repository: /home/sunnyhughes
+[2022-06-29T05:44:25.815Z] > git status -z -uall [422ms]
+[2022-06-29T05:44:25.816Z] > git symbolic-ref --short HEAD [3ms]
+[2022-06-29T05:44:25.841Z] > git fetch [478ms]
+[2022-06-29T05:44:25.842Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Main refs/remotes/Main [3ms]
+[2022-06-29T05:44:25.890Z] > git remote --verbose [4ms]
+[2022-06-29T05:44:25.890Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-06-29T05:44:32.771Z] > git check-ignore -v -z --stdin [6581ms]
+[2022-06-29T05:44:32.811Z] > git config --local branch.Main.github-pr-owner-number [162ms]
+[2022-06-29T05:44:32.817Z] > git config --get commit.template [240ms]
+[2022-06-29T05:44:33.410Z] > git status -z -uall [543ms]
+[2022-06-29T05:44:33.411Z] > git symbolic-ref --short HEAD [5ms]
+[2022-06-29T05:44:33.446Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Main refs/remotes/Main [3ms]
+[2022-06-29T05:44:33.503Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [27ms]
+[2022-06-29T05:44:33.504Z] > git remote --verbose [5ms]
+[2022-06-29T05:44:45.067Z] > git config --get commit.template [34ms]
+[2022-06-29T05:45:41.786Z] > git check-ignore -v -z --stdin [9ms]

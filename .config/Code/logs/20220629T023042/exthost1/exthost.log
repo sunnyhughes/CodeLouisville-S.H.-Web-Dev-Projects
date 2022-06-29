@@ -1,0 +1,117 @@
+[2022-06-29 02:30:48.262] [exthost] [info] Extension host with pid 8240 started
+[2022-06-29 02:30:48.262] [exthost] [info] Skipping acquiring lock for /home/sunnyhughes/.config/Code/User/workspaceStorage/1a4e9ab9ce05cd0a119bf5aa80127fed.
+[2022-06-29 02:30:48.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-29 02:30:49.077] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-29 02:30:49.084] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-29 02:30:49.091] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-29 02:30:49.102] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-29 02:30:49.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-06-29 02:30:49.304] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-06-29 02:30:50.250] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-29 02:30:51.073] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-29 02:30:51.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-29 02:30:51.181] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-06-29 02:30:53.194] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:31:00.736] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:31:00.808] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:31:00.813] [exthost] [info] ExtensionService#_doActivateExtension github.classroom, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:31:00.904] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:31:01.806] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:31:15.166] [exthost] [info] Eager extensions activated
+[2022-06-29 02:31:18.025] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:35:50.617] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:36:04.164] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-29 02:41:14.993] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:44:28.065] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:47:04.440] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:47:04.440] [exthost] [error] undefined
+[2022-06-29 02:48:44.308] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:51:56.263] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:52:43.448] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:52:43.448] [exthost] [error] undefined
+[2022-06-29 02:56:20.122] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:58:00.928] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-29 03:00:50.720] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:03:01.945] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 03:03:01.945] [exthost] [error] undefined
+[2022-06-29 03:03:03.383] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 03:03:03.383] [exthost] [error] undefined
+[2022-06-29 03:03:04.333] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 03:03:04.337] [exthost] [error] undefined
+[2022-06-29 03:04:25.026] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:04:36.477] [exthost] [error] [GitHub.vscode-pull-request-github] provider FAILED
+[2022-06-29 03:04:36.477] [exthost] [error] Error: Illegal value for lineNumber
+    at In.getLineLength (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:731:5647)
+    at o.isCheapToTokenize (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:204:81830)
+    at w.isCheapToTokenize (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:204:99976)
+    at w.tokenizeIfCheap (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:204:100021)
+    at C.$tokensAtPosition (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:59689)
+    at b._doInvokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:13205)
+    at b._invokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:12889)
+    at b._receiveRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:11551)
+    at b._receiveOneMessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:10229)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:8338
+    at m.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:145)
+    at s.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:2265)
+    at o.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:1843)
+    at c.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:19627)
+    at f._receiveMessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:24208)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:21742
+    at m.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:145)
+    at s.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:2265)
+    at o.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:1843)
+    at o.acceptChunk (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:16458)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:15588
+    at Socket.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3181:22044)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 03:04:36.477] [exthost] [error] [GitHub.vscode-pull-request-github] provider FAILED
+[2022-06-29 03:04:36.477] [exthost] [error] Error: Illegal value for lineNumber
+    at In.getLineLength (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:731:5647)
+    at o.isCheapToTokenize (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:204:81830)
+    at w.isCheapToTokenize (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:204:99976)
+    at w.tokenizeIfCheap (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:204:100021)
+    at C.$tokensAtPosition (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1753:59689)
+    at b._doInvokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:13205)
+    at b._invokeHandler (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:12889)
+    at b._receiveRequest (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:11551)
+    at b._receiveOneMessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:10229)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1731:8338
+    at m.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:145)
+    at s.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:2265)
+    at o.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:1843)
+    at c.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:19627)
+    at f._receiveMessage (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:24208)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:21742
+    at m.invoke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:145)
+    at s.deliver (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:2265)
+    at o.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:67:1843)
+    at o.acceptChunk (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:16458)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:83:15588
+    at Socket.L (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3181:22044)
+    at Socket.emit (node:events:390:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-06-29 03:06:40.426] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 03:06:40.426] [exthost] [error] undefined
+[2022-06-29 03:09:18.126] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:12:30.930] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:15:42.376] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:18:53.777] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:22:05.143] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:25:18.229] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:28:29.943] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:30:11.340] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:31:41.810] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:34:53.574] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:38:05.676] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:41:17.601] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:42:28.557] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:42:48.364] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 19197
+[2022-06-29 03:43:07.624] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 03:43:20.543] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000

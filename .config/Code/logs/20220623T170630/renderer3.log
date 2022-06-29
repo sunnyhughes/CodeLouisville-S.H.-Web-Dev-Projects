@@ -1,9 +1,0 @@
-[2022-06-24 00:33:53.919] [renderer3] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-[2022-06-24 00:33:59.988] [renderer3] [error] [Extension Host] (node:23161) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2022-06-24 00:34:09.655] [renderer3] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
-[2022-06-24 00:34:14.998] [renderer3] [error] [Extension Host] (node:23203) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2022-06-24 00:34:28.485] [renderer3] [info] UNRESPONSIVE extension host: starting to profile NOW
-[2022-06-24 00:34:29.393] [renderer3] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
-[2022-06-24 00:34:30.244] [renderer3] [warning] UNRESPONSIVE extension host: 'ms-vsliveshare.vsliveshare' took 92% of 1567.475ms, saved PROFILE here: 'file:///tmp/exthost-d185c7.cpuprofile' [{"id":"gc","total":25938,"percentage":2},{"id":"github.classroom","total":5755,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":1439859,"percentage":92},{"id":"program","total":391,"percentage":0},{"id":"self","total":91957,"percentage":6}]

@@ -1,0 +1,95 @@
+[2022-06-29 01:16:11.940] [exthost] [info] Extension host with pid 3352 started
+[2022-06-29 01:16:11.940] [exthost] [info] Skipping acquiring lock for /home/sunnyhughes/.config/Code/User/workspaceStorage/f2d3e596b92079356a9c0b9b2221fd6d.
+[2022-06-29 01:16:12.512] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-29 01:16:12.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-29 01:16:12.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-29 01:16:12.598] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-29 01:16:12.603] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-29 01:16:12.611] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-29 01:16:12.701] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-06-29 01:16:12.754] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-06-29 01:16:13.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-29 01:16:13.994] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-29 01:16:14.139] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-29 01:16:14.175] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-06-29 01:16:18.071] [exthost] [info] Eager extensions activated
+[2022-06-29 01:16:18.097] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:16:18.112] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:16:18.116] [exthost] [info] ExtensionService#_doActivateExtension github.classroom, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:16:18.174] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:28:13.082] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:28:22.254] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:29:32.375] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-29 01:29:32.387] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-29 01:29:32.428] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-29 01:31:33.787] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:31:52.802] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-29 01:31:52.942] [exthost] [info] Extension host with pid 3352 exiting with code 0
+[2022-06-29 01:31:56.676] [exthost] [info] Extension host with pid 4083 started
+[2022-06-29 01:31:56.814] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-29 01:31:56.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-29 01:31:56.854] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-29 01:31:56.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-29 01:31:56.866] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-29 01:31:56.927] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-06-29 01:31:56.969] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-06-29 01:31:57.801] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-29 01:31:57.867] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-29 01:31:57.898] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-06-29 01:32:00.663] [exthost] [info] Eager extensions activated
+[2022-06-29 01:32:00.716] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:32:00.745] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:32:00.754] [exthost] [info] ExtensionService#_doActivateExtension github.classroom, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:32:00.848] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:32:26.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-29 01:32:27.742] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:32:37.394] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:32:50.106] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:33:32.998] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-29 01:33:33.169] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-06-29 01:33:33.172] [exthost] [info] Extension host with pid 4083 exiting with code 0
+[2022-06-29 01:33:37.770] [exthost] [info] Extension host with pid 4295 started
+[2022-06-29 01:33:37.770] [exthost] [info] Skipping acquiring lock for /home/sunnyhughes/.config/Code/User/workspaceStorage/c8b5649f289117a342c93f00310f4da8.
+[2022-06-29 01:33:38.329] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-29 01:33:38.390] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-29 01:33:38.398] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-06-29 01:33:38.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-29 01:33:38.421] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-06-29 01:33:38.464] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-06-29 01:33:39.165] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-29 01:33:39.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-29 01:33:39.838] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-06-29 01:33:40.756] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-06-29 01:33:40.846] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2022-06-29 01:33:40.909] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:33:42.818] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:33:51.723] [exthost] [info] Eager extensions activated
+[2022-06-29 01:33:52.149] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-29 01:33:52.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:33:52.212] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:33:52.218] [exthost] [info] ExtensionService#_doActivateExtension github.classroom, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:33:52.527] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:34:04.704] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 01:35:09.109] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-29 01:35:09.232] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:220:20)
+[2022-06-29 01:35:09.235] [exthost] [info] Extension host with pid 4295 exiting with code 0
+[2022-06-29 01:35:13.416] [exthost] [info] Extension host with pid 4631 started
+[2022-06-29 01:35:13.593] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-29 01:35:13.627] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-29 01:35:13.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-29 01:35:13.636] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-29 01:35:13.643] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-29 01:35:13.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-06-29 01:35:13.733] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-06-29 01:35:14.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-29 01:35:14.260] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-29 01:35:14.269] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-06-29 01:35:16.690] [exthost] [info] Eager extensions activated
+[2022-06-29 01:35:16.714] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:35:16.729] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:35:16.733] [exthost] [info] ExtensionService#_doActivateExtension github.classroom, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:35:16.775] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 01:39:57.202] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-29 01:39:57.322] [exthost] [info] Extension host with pid 4631 exiting with code 0

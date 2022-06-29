@@ -1,0 +1,8 @@
+[2022-06-29 01:44:06.085] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 01:44:09.664] [renderer1] [error] [Extension Host] (node:4881) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-06-29 01:44:30.303] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 01:44:33.300] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-29 01:44:33.506] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 72% of 3442.781ms, saved PROFILE here: 'file:///tmp/exthost-fd1789.cpuprofile' [{"id":"gc","total":121569,"percentage":4},{"id":"github.classroom","total":5856,"percentage":0},{"id":"GitHub.vscode-pull-request-github","total":46668,"percentage":1},{"id":"ms-vsliveshare.vsliveshare","total":3432,"percentage":0},{"id":"program","total":6095,"percentage":0},{"id":"self","total":780688,"percentage":23},{"id":"vscode.git","total":2478006,"percentage":72}]
+[2022-06-29 01:44:37.653] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 01:44:42.838] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 93% of 5479.487ms, saved PROFILE here: 'file:///tmp/exthost-ea7da0.cpuprofile' [{"id":"gc","total":94504,"percentage":2},{"id":"self","total":300253,"percentage":5},{"id":"vscode.git","total":5083555,"percentage":93}]

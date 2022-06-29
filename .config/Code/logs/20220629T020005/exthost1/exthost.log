@@ -1,0 +1,36 @@
+[2022-06-29 02:00:09.987] [exthost] [info] Extension host with pid 5305 started
+[2022-06-29 02:00:09.987] [exthost] [info] Skipping acquiring lock for /home/sunnyhughes/.config/Code/User/workspaceStorage/1a4e9ab9ce05cd0a119bf5aa80127fed.
+[2022-06-29 02:00:10.267] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-29 02:00:10.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-29 02:00:10.310] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-29 02:00:10.316] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-29 02:00:10.323] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-29 02:00:10.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: true, activationEvent: '*', root cause: GitHub.vscode-pull-request-github
+[2022-06-29 02:00:10.541] [exthost] [info] ExtensionService#_doActivateExtension ms-vsliveshare.vsliveshare, startup: true, activationEvent: '*'
+[2022-06-29 02:00:11.228] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-29 02:00:11.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-29 02:00:11.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-29 02:00:11.424] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: true, activationEvent: '*'
+[2022-06-29 02:00:13.372] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:00:20.723] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:00:31.486] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:00:31.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:00:31.510] [exthost] [info] ExtensionService#_doActivateExtension github.classroom, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:00:31.602] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-29 02:00:32.111] [exthost] [info] Eager extensions activated
+[2022-06-29 02:00:32.407] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2022-06-29 02:00:35.496] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:04:32.817] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:06:07.556] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:06:07.556] [exthost] [error] undefined
+[2022-06-29 02:06:19.484] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:06:19.484] [exthost] [error] undefined
+[2022-06-29 02:06:20.975] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:06:20.975] [exthost] [error] undefined
+[2022-06-29 02:06:22.483] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:06:22.483] [exthost] [error] undefined
+[2022-06-29 02:07:49.118] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-06-29 02:08:13.390] [exthost] [error] [ecmel.vscode-html-css] provider FAILED
+[2022-06-29 02:08:13.390] [exthost] [error] undefined
+[2022-06-29 02:08:41.099] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-29 02:08:41.331] [exthost] [info] Extension host with pid 5305 exiting with code 0

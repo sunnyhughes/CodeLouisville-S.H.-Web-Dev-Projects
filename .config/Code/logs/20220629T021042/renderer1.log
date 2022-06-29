@@ -1,0 +1,26 @@
+[2022-06-29 02:10:46.357] [renderer1] [critical] Extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookDocumentEvents' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-06-29 02:10:49.697] [renderer1] [error] [Extension Host] (node:6541) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-06-29 02:10:52.900] [renderer1] [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/sunnyhughes/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp' failed: No such file or directory (EUNKNOWN) (path: /home/sunnyhughes)
+[2022-06-29 02:10:52.913] [renderer1] [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/sunnyhughes/.config/Code/User/globalStorage/github.vscode-pull-request-github/temp' failed: No such file or directory
+[2022-06-29 02:10:56.679] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:11:00.740] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+[2022-06-29 02:11:01.079] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 69% of 4370.357ms, saved PROFILE here: 'file:///tmp/exthost-2c6008.cpuprofile' [{"id":"gc","total":151798,"percentage":3},{"id":"GitHub.vscode-pull-request-github","total":342,"percentage":0},{"id":"ms-vsliveshare.vsliveshare","total":282847,"percentage":6},{"id":"program","total":17008,"percentage":0},{"id":"self","total":878724,"percentage":20},{"id":"vscode.git","total":3031302,"percentage":69},{"id":"vscode.github-authentication","total":302,"percentage":0},{"id":"vscode.html-language-features","total":6915,"percentage":0}]
+[2022-06-29 02:11:04.499] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:11:09.643] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 93% of 5380.799ms, saved PROFILE here: 'file:///tmp/exthost-d50f84.cpuprofile' [{"id":"gc","total":77564,"percentage":1},{"id":"self","total":298614,"percentage":6},{"id":"vscode.git","total":5004292,"percentage":93}]
+[2022-06-29 02:11:19.595] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:11:24.705] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 92% of 5375.451ms, saved PROFILE here: 'file:///tmp/exthost-897c78.cpuprofile' [{"id":"gc","total":135319,"percentage":3},{"id":"self","total":298441,"percentage":6},{"id":"vscode.git","total":4941491,"percentage":92}]
+[2022-06-29 02:11:37.949] [renderer1] [info] Settings Sync: Updated current session f99fbcf6-e61f-4a6a-9de7-c8f59ef249ab
+[2022-06-29 02:14:16.875] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:14:22.068] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 91% of 5380.685ms, saved PROFILE here: 'file:///tmp/exthost-24642c.cpuprofile' [{"id":"gc","total":202559,"percentage":4},{"id":"self","total":254916,"percentage":5},{"id":"vscode.git","total":4922886,"percentage":91}]
+[2022-06-29 02:17:29.671] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:17:33.091] [renderer1] [warning] {}
+[2022-06-29 02:17:34.921] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 91% of 5316.665ms, saved PROFILE here: 'file:///tmp/exthost-63db91.cpuprofile' [{"id":"gc","total":215296,"percentage":4},{"id":"self","total":268842,"percentage":5},{"id":"vscode.git","total":4831726,"percentage":91}]
+[2022-06-29 02:17:43.272] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-06-29 02:18:27.145] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-06-29 02:18:29.835] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-06-29 02:20:43.041] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:20:48.338] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 93% of 5420.045ms, saved PROFILE here: 'file:///tmp/exthost-3928ae.cpuprofile' [{"id":"gc","total":131776,"percentage":2},{"id":"self","total":245409,"percentage":5},{"id":"vscode.git","total":5042498,"percentage":93}]
+[2022-06-29 02:28:34.195] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
+[2022-06-29 02:28:39.407] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 91% of 5403.93ms, saved PROFILE here: 'file:///tmp/exthost-f2c30f.cpuprofile' [{"id":"gc","total":205621,"percentage":4},{"id":"self","total":277593,"percentage":5},{"id":"vscode.git","total":4920372,"percentage":91}]
+[2022-06-29 02:30:05.453] [renderer1] [error] An unknown error occurred. Please consult the log for more details.

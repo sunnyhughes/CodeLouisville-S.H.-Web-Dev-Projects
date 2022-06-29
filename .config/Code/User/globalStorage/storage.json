@@ -38,7 +38,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -47,57 +48,13 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "fsPath": "/home/sunnyhughes/github-classroom",
-                                        "external": "file:///home/sunnyhughes/github-classroom",
-                                        "path": "/home/sunnyhughes/github-classroom",
+                                        "fsPath": "/home/sunnyhughes/js-demo",
+                                        "external": "file:///home/sunnyhughes/js-demo",
+                                        "path": "/home/sunnyhughes/js-demo",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "~/github-classroom"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/%20Seasons%20of%20the%20Sun",
-                                        "path": "/mnt/chromeos/MyFiles/ Seasons of the Sun",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/ Seasons of the Sun"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sunnyhughes/github-classroom/CodeLouisville/webdev-c1---knowledge-check-1-sunnyhughes",
-                                        "path": "/home/sunnyhughes/github-classroom/CodeLouisville/webdev-c1---knowledge-check-1-sunnyhughes",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/github-classroom/CodeLouisville/webdev-c1---knowledge-check-1-sunnyhughes"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sunnyhughes/You",
-                                        "path": "/home/sunnyhughes/You",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/You"
-                                },
-                                {
-                                    "id": "openRecentFolder",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///web-dev-starter",
-                                        "path": "/web-dev-starter",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/web-dev-starter"
+                                    "label": "~/js-demo"
                                 },
                                 {
                                     "id": "openRecentFolder",
@@ -114,48 +71,147 @@
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/school%20extra%20files/node-v18.4.0-linux-x64",
-                                        "path": "/mnt/chromeos/MyFiles/school extra files/node-v18.4.0-linux-x64",
+                                        "external": "file:///home/sunnyhughes/js-demo%20",
+                                        "path": "/home/sunnyhughes/js-demo ",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/school extra files/node-v18.4.0-linux-x64"
+                                    "label": "~/js-demo "
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/school%20extra%20files/css-creating-page-layouts/12/demos/demos/grid-start",
-                                        "path": "/mnt/chromeos/MyFiles/school extra files/css-creating-page-layouts/12/demos/demos/grid-start",
+                                        "external": "file:///home/sunnyhughes/web-dev-starter",
+                                        "path": "/home/sunnyhughes/web-dev-starter",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/school extra files/css-creating-page-layouts/12/demos/demos/grid-start"
+                                    "label": "~/web-dev-starter"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/school%20extra%20files/css-creating-page-layouts/11/demos/demos/start",
-                                        "path": "/mnt/chromeos/MyFiles/school extra files/css-creating-page-layouts/11/demos/demos/start",
+                                        "external": "file:///mnt/chromeos/MyFiles/Carved%20Rock%20Project/03/demos/after",
+                                        "path": "/mnt/chromeos/MyFiles/Carved Rock Project/03/demos/after",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/school extra files/css-creating-page-layouts/11/demos/demos/start"
+                                    "label": "/mnt/chromeos/MyFiles/Carved Rock Project/03/demos/after"
                                 },
                                 {
                                     "id": "openRecentFolder",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/Bethany%27s%20Pie%20Shop/csspp-1.0.26",
-                                        "path": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/csspp-1.0.26",
+                                        "external": "file:///mnt/chromeos/MyFiles/Bethany%27s%20Pie%20Shop/10/demos/demos/start",
+                                        "path": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/10/demos/demos/start",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/csspp-1.0.26"
+                                    "label": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/10/demos/demos/start"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/Carved%20Rock%20Project/04/demos/after/js-demo",
+                                        "path": "/mnt/chromeos/MyFiles/Carved Rock Project/04/demos/after/js-demo",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/Carved Rock Project/04/demos/after/js-demo"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/Carved%20Rock%20Project/05",
+                                        "path": "/mnt/chromeos/MyFiles/Carved Rock Project/05",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/Carved Rock Project/05"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/Carved%20Rock%20Project/04",
+                                        "path": "/mnt/chromeos/MyFiles/Carved Rock Project/04",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/Carved Rock Project/04"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/Carved%20Rock%20Project/02",
+                                        "path": "/mnt/chromeos/MyFiles/Carved Rock Project/02",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/Carved Rock Project/02"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/sunnyhughes/js-demo%20/index.html",
+                                        "path": "/home/sunnyhughes/js-demo /index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/js-demo /index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/school%20extra%20files/css/css-grid.css",
+                                        "path": "/mnt/chromeos/MyFiles/school extra files/css/css-grid.css",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/school extra files/css/css-grid.css"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/Carved%20Rock%20Project/04/demos/after/js-demo/index.html",
+                                        "path": "/mnt/chromeos/MyFiles/Carved Rock Project/04/demos/after/js-demo/index.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/Carved Rock Project/04/demos/after/js-demo/index.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/MyFiles/javascript%20module%20project/02/demos/after/js-demo/home.js",
+                                        "path": "/mnt/chromeos/MyFiles/javascript module project/02/demos/after/js-demo/home.js",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/MyFiles/javascript module project/02/demos/after/js-demo/home.js"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///mnt/chromeos/archive/javascript-getting-started.zip/02/demos/readme.txt",
+                                        "path": "/mnt/chromeos/archive/javascript-getting-started.zip/02/demos/readme.txt",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/mnt/chromeos/archive/javascript-getting-started.zip/02/demos/readme.txt"
                                 },
                                 {
                                     "id": "openRecentFile",
@@ -211,61 +267,6 @@
                                     },
                                     "enabled": true,
                                     "label": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/10/demos/demos/snippets.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/school%20extra%20files/css-creating-page-layouts/11/demos/demos/snippets.txt",
-                                        "path": "/mnt/chromeos/MyFiles/school extra files/css-creating-page-layouts/11/demos/demos/snippets.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/school extra files/css-creating-page-layouts/11/demos/demos/snippets.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/Bethany%27s%20Pie%20Shop/demos/demos/snippets.txt",
-                                        "path": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/demos/demos/snippets.txt",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/demos/demos/snippets.txt"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/Bethany%27s%20Pie%20Shop/start/bootstrap-reboot.min.css",
-                                        "path": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/start/bootstrap-reboot.min.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/Bethany's Pie Shop/start/bootstrap-reboot.min.css"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///home/sunnyhughes/csspp/INSTALL.md",
-                                        "path": "/home/sunnyhughes/csspp/INSTALL.md",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/csspp/INSTALL.md"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
-                                        "external": "file:///mnt/chromeos/MyFiles/%20Seasons%20of%20the%20Sun/styles.css/main.css",
-                                        "path": "/mnt/chromeos/MyFiles/ Seasons of the Sun/styles.css/main.css",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "/mnt/chromeos/MyFiles/ Seasons of the Sun/styles.css/main.css"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -376,13 +377,6 @@
                                 {
                                     "id": "workbench.action.selectProductIconTheme",
                                     "label": "&&Product Icon Theme"
-                                },
-                                {
-                                    "id": "vscode.menubar.separator"
-                                },
-                                {
-                                    "id": "workbench.userDataSync.actions.manage",
-                                    "label": "Settings Sync is On"
                                 }
                             ]
                         }
@@ -1174,8 +1168,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1768,13 +1761,13 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/sunnyhughes/github-classroom",
-            "backupPath": "/home/sunnyhughes/.config/Code/Backups/be8688b58804b9a442fc2ba2d2b8c922",
+            "folder": "file:///home/sunnyhughes/js-demo",
+            "backupPath": "/home/sunnyhughes/.config/Code/Backups/0fca9c3c10cccc548dc62b9a2790db4e",
             "uiState": {
-                "mode": 0,
-                "x": 0,
+                "mode": 1,
+                "x": 352,
                 "y": 40,
-                "width": 1366,
+                "width": 662,
                 "height": 688
             }
         },

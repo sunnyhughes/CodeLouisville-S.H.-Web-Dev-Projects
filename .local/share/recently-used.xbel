@@ -13,12 +13,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///mnt/chromeos/MyFiles/%20Seasons%20of%20the%20Sun" added="2022-05-11T21:54:56Z" modified="2022-06-24T04:34:05.629724Z" visited="2022-05-11T21:54:57Z">
+  <bookmark href="file:///mnt/chromeos/MyFiles/%20Seasons%20of%20the%20Sun" added="2022-05-11T21:54:56Z" modified="2022-06-24T20:41:46.955381Z" visited="2022-05-11T21:54:57Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
-          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-24T04:34:05.629068Z" count="9"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-24T20:41:46.955375Z" count="10"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -49,6 +49,46 @@
         <mime:mime-type type="inode/directory"/>
         <bookmark:applications>
           <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-23T21:08:43.942946Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sunnyhughes/web-dev-starter" added="2022-06-28T20:51:20.475499Z" modified="2022-06-29T04:53:21.447308Z" visited="2022-06-28T20:51:20.475500Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-29T04:53:21.447271Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sunnyhughes/web-dev-starter/use%20this%20js/index.html" added="2022-06-28T22:54:21.088830Z" modified="2022-06-28T22:54:21.088868Z" visited="2022-06-28T22:54:21.088832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-28T22:54:21.088835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sunnyhughes/js-demo%20/index.html" added="2022-06-29T05:32:22.941657Z" modified="2022-06-29T05:32:22.941694Z" visited="2022-06-29T05:32:22.941659Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-29T05:32:22.941663Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/sunnyhughes/js-demo%20" added="2022-06-29T05:33:32.914932Z" modified="2022-06-29T05:33:32.914941Z" visited="2022-06-29T05:33:32.914933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2022-06-29T05:33:32.914937Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
