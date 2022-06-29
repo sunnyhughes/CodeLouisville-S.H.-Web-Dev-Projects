@@ -1,0 +1,58 @@
+{
+	"name": "gps-markedpp",
+	"displayName": "GPS.Markedpp",
+	"description": "VSCode Addin for applying preprocessor transforms for Markdown via markedpp.",
+	"version": "1.1.0",
+	"publisher": "GatewayProgrammingSchoolInc",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/gatewayprogrammingschool/GPS.Markedpp"
+	},
+	"engines": {
+		"vscode": "^1.27.0"
+	},
+	"categories": [
+		"Formatters"
+	],
+	"activationEvents": [
+		"onCommand:gps-markdown.transformMarkdown"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "gps-markdown.transformMarkdown",
+				"title": "GPS: Transform Markdown"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"typescript": "^2.6.1",
+		"vscode": "^1.1.21",
+		"tslint": "^5.8.0",
+		"@types/node": "^8.10.25",
+		"@types/mocha": "^2.2.42"
+	},
+	"dependencies": {
+		"markedpp": "^1.0.1",
+		"typescript-string-operations": ">=1.3.1"
+	},
+	"license": "MIT",
+	"__metadata": {
+		"id": "9f1fc913-960c-4841-852f-a4886f6fbf40",
+		"publisherId": "28ec90d2-b672-4b3d-9a7a-922d3de57c70",
+		"publisherDisplayName": "Gateway Programming School Inc",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"installedTimestamp": 1655154357351
+	}
+}

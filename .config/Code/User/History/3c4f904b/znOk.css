@@ -1,0 +1,48 @@
+* {
+    background-color: lightcyan;
+    
+}
+
+header {
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    padding:10px;
+  
+  }
+  
+  
+  nav {
+    float: left;
+    padding: 30px;
+    border: 30px solid peachpuff;
+    width: 200px;
+    margin: 100px;
+  }
+
+div {
+  column-count: 3; column-rule: 2px solid darkblue;
+  
+  
+  }
+
+h1 {
+  padding:50px;
+  border:30px dashed pink;
+  margin:10px;
+}
+  
+footer {
+    
+    padding: 5px;
+    border:auto;
+    width: 100%;
+    text-align:justify;
+
+
+}
+
+.grid-item2 {
+  display: block;
+
+}

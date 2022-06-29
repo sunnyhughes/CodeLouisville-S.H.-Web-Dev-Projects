@@ -1,0 +1,59 @@
+* {
+    background-color: lightcyan;
+    
+}
+
+body {
+  display: block;
+}
+
+#mainHeader {
+  font-style: bold;
+    width: auto;
+    height: 75px;
+    padding:10px;
+  border:30px dashed pink;
+
+}
+  
+  
+nav {
+    float: left;
+    padding: 30px;
+    border: 30px solid peachpuff;
+    width: 200px;
+    margin: 100px;
+  }
+
+div {
+  column-count: 3; column-rule: 15px solid darkblue;
+  
+  }
+  
+footer {
+    
+    padding: 5px;
+    border:auto;
+    width: 100%;
+}
+
+.grid-container {
+  display:grid;
+grid-template-columns: auto;
+padding: 20px;
+border: 20px solid black;
+
+}
+.grid-item2 inner-divs {
+  padding:5px;
+  border: 5px solid blue;
+  font-size: 30px;
+  text-align: center;
+
+}
+#grid-item3 inner-divs {
+  border:5px solid plum;
+  padding: 20px;
+  margin: 10px;
+  
+}

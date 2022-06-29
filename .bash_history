@@ -214,3 +214,46 @@ git config --global user.name "Sunshine Hughes"
 git config user.email "sunshinehughes2011@gmail.com"
 git config user.name "Sunshine Hughes"
 git commit
+git status
+git commit -a -m "Attempting a commit"
+git status
+git add .bash_logout
+git push origin master
+git -ls a
+git --ls
+git ls -a
+git log
+git status
+git commit
+git global user.email "sunshinehughes2011@gmail.com
+git status
+git global user.email "sunshinehughes2011@gmail.com"
+git global user.name "Sunshine Hughes"
+git commit
+
+exit
+  
+~$ git ls -a
+
+-m
+echo "# sunnyhughes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M Main
+git remote add origin https://github.com/sunnyhughes/sunnyhughes.git
+git push -u origin Main
+echo "# sunnyhughes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M Main
+git remote add origin https://github.com/sunnyhughes/sunnyhughes.git
+git push -u origin Main
+git cd
+cd mk
+git cd -mk
+git status
+git local user
+git --local
+--git-dir

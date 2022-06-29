@@ -1,0 +1,26 @@
+
+html, body {
+  display: grid;
+  grid-template-columns: 12 15em;
+  grid-template-rows: 8 15em;
+
+}
+
+.grid-item {
+
+  background-color: coral;
+  border: 1px solid gray;
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+
+}
+
+nav {
+  padding: 10px;
+  border: 5px solid peachpuff;
+  width: 10px;
+  margin: 0 auto 20px;
+}
+
+*/

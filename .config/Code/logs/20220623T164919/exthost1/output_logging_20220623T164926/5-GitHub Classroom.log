@@ -1,0 +1,5 @@
+[Command:u I] Decorator starting: l
+[Command:u I] Decorator starting: a
+[Command:u I] Command [Sign In]: github.classroom.signIn Success (6205ms)
+[Command:u I] Decorator finishing: a. Duration: 5ms (0 + 5)
+[Command:u I] Decorator finishing: l. Duration: 0ms (0 + 0)

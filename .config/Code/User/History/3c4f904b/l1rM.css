@@ -1,0 +1,48 @@
+* {
+    background-color: lightcyan;
+    
+}
+
+body {
+  display: block;
+}
+
+#mainHeader {
+    width: auto;
+    height: 75px;
+    padding:10px;
+  border:30px dashed pink;
+text-align: center;
+font-size: large;
+
+}
+  
+  
+nav {
+    float: left;
+    padding: 30px;
+    border: 30px solid peachpuff;
+    width: 200px;
+    margin: 100px;
+  }
+
+div {
+  column-count: 3; column-rule: 2px solid darkblue;
+  
+  
+  }
+  
+footer {
+    
+    padding: 5px;
+    border:auto;
+    width: 100%;
+    text-align:justify;
+
+
+}
+
+.grid-item2 {
+  display: block;
+
+}

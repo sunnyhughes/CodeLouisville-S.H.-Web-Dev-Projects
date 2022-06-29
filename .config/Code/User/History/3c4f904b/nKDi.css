@@ -1,0 +1,50 @@
+* {
+    background-color: lightcyan;
+    
+}
+
+header {
+    width: 75px;
+    height: 75px;
+    margin: auto;
+    padding:10px;
+  
+  }
+  
+  
+  nav {
+    float: left;
+    padding: 30px;
+    border: 30px solid peachpuff;
+    width: 200px;
+    margin: 100px;
+  }
+
+div {
+    padding:10px;
+    border: 2px solid black;
+    margin: auto;
+  
+  
+  }
+
+h1 {
+  padding:10px;
+  border:20px dashed pink;
+  margin:10px;
+}
+  
+footer {
+    
+    padding: 5px;
+    border:auto;
+    width: 100%;
+    text-align:justify;
+
+}  
+#main-container {
+
+display: block;
+padding: 40px;
+
+}

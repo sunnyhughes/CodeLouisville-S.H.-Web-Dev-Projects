@@ -1,0 +1,32 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.startupEditor": "none",
+    "editor.cursorStyle": "block",
+    "editor.definitionLinkOpensInPeek": true,
+    "grunt.autoDetect": "on",
+    "typescript.disableAutomaticTypeAcquisition": true,
+    "settingsSync.ignoredExtensions": [
+    "ms-vscode.node-debug"
+    ],
+    "explorer.confirmDelete": false,
+    "git.ignoreLimitWarning": true,
+    "extensions.autoUpdate": "onlyEnabledExtensions",
+    "liveServer.settings.donotVerifyTags": true,
+    "gulp.autoDetect": "on",
+    "editor.renderControlCharacters": true,
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 12,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "window.closeWhenEmpty": true,
+    "window.autoDetectColorScheme": true,
+    "html.format.indentInnerHtml": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.allowForcePush": true,
+    "git.autoStash": true
+}

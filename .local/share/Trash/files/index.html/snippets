@@ -1,0 +1,38 @@
+/*------ LINKS TO CSS FILES --------*/
+
+<link rel="stylesheet"  href="css/bootstrap.min.css">
+<link rel="stylesheet"  href="css/mystyles.css">
+
+
+------- HEADER CSS ----------
+header {
+    background-color: #9b87b8;
+}
+header h1, header h2 {
+    margin: 0;
+    color: #fff; 
+    font-weight: 300;
+    font-style: italic;
+}
+header h1 { 
+	padding: .5rem 0 0 0; 
+	font-size: 2.1rem;
+}
+header h2{
+	padding: .2rem 0 0 0; 
+	font-size:1.05rem;    
+}
+header img {
+    float: left; 
+    height: 85px;
+    padding-right: 10px; 
+    
+}
+/* end */
+
+***** DO NOT LIE META TAG *****
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
