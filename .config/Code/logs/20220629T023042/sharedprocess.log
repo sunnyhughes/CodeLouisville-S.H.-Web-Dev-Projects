@@ -1,2 +1,4 @@
 [2022-06-29 02:30:49.509] [sharedprocess] [info] Starting worker process with pid 8275 (type: fileWatcher, window: 1).
 [2022-06-29 03:42:24.445] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-29 20:35:04.263] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-29 20:35:05.631] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}

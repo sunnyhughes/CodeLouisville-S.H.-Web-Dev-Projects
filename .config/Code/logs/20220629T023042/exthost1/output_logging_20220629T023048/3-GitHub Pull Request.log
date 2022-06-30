@@ -35,3 +35,9 @@
 [Info] Review> no matching pull request metadata found for current branch Main
 [Info] Review> no matching pull request metadata found on GitHub for current branch Main
 [Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Review> no matching pull request metadata found for current branch Main
+[Info] Review> no matching pull request metadata found on GitHub for current branch Main
+[Info] PullRequestTree> Removing PR #undefined from tree

@@ -81,3 +81,4 @@
 [2022-06-29 03:49:26.979] [renderer1] [info] UNRESPONSIVE extension host: starting to profile NOW
 [2022-06-29 03:49:32.827] [renderer1] [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
 [2022-06-29 03:49:32.956] [renderer1] [warning] UNRESPONSIVE extension host: 'vscode.git' took 68% of 6255.371ms, saved PROFILE here: 'file:///tmp/exthost-5d05dc.cpuprofile' [{"id":"gc","total":304609,"percentage":5},{"id":"ms-vsliveshare.vsliveshare","total":2733,"percentage":0},{"id":"program","total":1789,"percentage":0},{"id":"self","total":1712235,"percentage":27},{"id":"vscode.git","total":4233688,"percentage":68}]
+[2022-06-29 20:35:05.636] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {}
